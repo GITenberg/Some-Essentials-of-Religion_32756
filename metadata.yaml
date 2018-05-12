@@ -45,6 +45,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32756#Some-Essentials-of-Religion
 gutenberg_issued: '2010-06-09'
 gutenberg_type: Text
 identifiers:
