@@ -1,0 +1,66 @@
+_repo: Some-Essentials-of-Religion_32756
+_version: 0.1.0
+contributor:
+  contributors:
+  - agent_name: Bidwell, Edward John
+    alias: Bidwell, E. J.
+    birthdate: 1866
+    gutenberg_agent_id: '36026'
+    url: http://www.gutenberg.org/2009/agents/36026
+  - agent_name: Doull, Alexander John
+    alias: Doull, A. J.
+    birthdate: 1870
+    gutenberg_agent_id: '36029'
+    url: http://www.gutenberg.org/2009/agents/36029
+  - agent_name: Owen, Derwyn Trevor
+    alias: Owen, D. T.
+    birthdate: 1876
+    deathdate: 1947
+    gutenberg_agent_id: '36028'
+    url: http://www.gutenberg.org/2009/agents/36028
+  - agent_name: Smyth, J. Paterson (John Paterson)
+    aliases:
+    - Smyth, John Paterson
+    - Paterson-Smyth, J. (John)
+    birthdate: 1852
+    deathdate: 1932
+    gutenberg_agent_id: '31597'
+    url: http://www.gutenberg.org/2009/agents/31597
+  - agent_name: Cody, John Henry
+    alias: Cody, J. H.
+    birthdate: 1868
+    gutenberg_agent_id: '36030'
+    url: http://www.gutenberg.org/2009/agents/36030
+  - agent_name: Little, Henry M.
+    alias: Little, H. M.
+    gutenberg_agent_id: '36027'
+    url: http://www.gutenberg.org/2009/agents/36027
+  - agent_name: Roper, John Charles
+    alias: Roper, J. C.
+    birthdate: 1858
+    deathdate: 1940
+    gutenberg_agent_id: '36025'
+    url: http://www.gutenberg.org/2009/agents/36025
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2010-06-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32756'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christianity'
+- !lcc 'BR'
+- !lcsh 'Religion'
+- !lcsh 'Apologetics'
+tableOfContents: God, our Father, by J.C. Roper -- Fundamental thoughts about Jesus
+  Christ, by E.J. Bidwell -- The Bible, by Archdeacon Paterson-Smyth -- What is faith?
+  by H.M. Little -- Prayer, by D.T. Owen -- Holy Communion, by A.J. Doull -- Immortality,
+  by Canon Cody.
+title: Some Essentials of Religion
+url: http://www.gutenberg.org/ebooks/32756
